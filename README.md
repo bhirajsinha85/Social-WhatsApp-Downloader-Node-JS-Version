@@ -130,7 +130,7 @@ https://www.facebook.com/watch/?v=XXXXXXXX
 
 ---
 
-## 🧩 Related Project
+## 🧩 PHP Version
 
 Looking for the **PHP version**?  
 Check out: [Social WhatsApp Downloader (PHP Version)](https://github.com/AmitDas4321/Social-WhatsApp-Downloader)
