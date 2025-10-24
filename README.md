@@ -132,9 +132,13 @@ https://www.facebook.com/watch/?v=XXXXXXXX
 
 ## 🧩 PHP Version
 
-Looking for the **PHP version**?  
-Check out: [Social WhatsApp Downloader (PHP Version)](https://github.com/AmitDas4321/Social-WhatsApp-Downloader)
+If you prefer using **PHP**, check out the PHP version of this project here: 
+👉 [**Social WhatsApp Downloader (PHP)**](https://github.com/AmitDas4321/Social-WhatsApp-Downloader)
 
+This version runs smoothly on **any PHP-supported server** — including **cPanel**, **Hostinger**, or **VPS hosting** —
+and offers the same WhatsApp automation features for downloading from
+**Pinterest**, **Instagram**, **Facebook**, and **YouTube**.
+ 
 ---
 
 ## 👨‍💻 Author
