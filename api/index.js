@@ -7,7 +7,7 @@
 \*===============================================*/
 
 // api/index.js
-const { PINTEREST_API_BASE, WHATSAPP_INSTANCE_ID, WHATSAPP_ACCESS_TOKEN } = require('../config');
+const { API_BASE, WHATSAPP_INSTANCE_ID, WHATSAPP_ACCESS_TOKEN } = require('../config');
 
 module.exports = async (req, res) => {
   if (req.method !== 'POST') {
@@ -86,7 +86,7 @@ module.exports = async (req, res) => {
   debugLog(`Detected video URL: ${linkFound}`);
 
   // Downloader API with 40-second timeout
-  const downloaderUrl = `${PINTEREST_API_BASE}?url=${encodeURIComponent(linkFound)}`;
+  const downloaderUrl = `${API_BASE}?url=${encodeURIComponent(linkFound)}`;
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 40000); // 40 seconds timeout
 
