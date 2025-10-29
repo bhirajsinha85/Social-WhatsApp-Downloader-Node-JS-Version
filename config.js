@@ -1,6 +1,6 @@
 // config.js
 module.exports = {
   API_BASE: 'https://wadownloader.amitdas.site/api/',
-  WHATSAPP_INSTANCE_ID: 'YOUR_INSTANCE_ID',
-  WHATSAPP_ACCESS_TOKEN: 'YOUR_ACCESS_TOKEN'
+  WHATSAPP_INSTANCE_ID: '6902616263C85',
+  WHATSAPP_ACCESS_TOKEN: '690260d8ef7bd'
 };
